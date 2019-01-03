@@ -2,7 +2,7 @@
   "name": "contact-manager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://habibwebdev.github.io/contactmanager",
+  "homepage": "https://habibwebdev.github.io/react-cm",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.2.1",
