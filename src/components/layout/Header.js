@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const Header = (props) => {
     return <nav className="navbar navbar-expand-lg navbar-dark bg-danger mb-3">
         <div className="container">
-          <Link className="navbar-brand" href="/">
+          <Link className="navbar-brand" to="/">
             {props.branding}
           </Link>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
